@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Arktanis
-- 👀 I’m interested in ... Coding and making things
-- 🌱 I’m currently learning ... Software/Hardware nature
+- 👋 Hi, I’m @Mehar_Singh
+- 👀 I’m interested in ... Coding and Robotics
+- 🌱 I’m currently learning ... Software/Embedded nature
 - 💞️ I’m looking to collaborate on ... anything
-- 📫 How to reach me ... Gmail
+- 📫 How to reach me ... mehar.21jiece002@jietjodhpur.ac.in
 
 <!---
 Arktanis/Arktanis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
